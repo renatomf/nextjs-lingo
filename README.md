@@ -189,10 +189,3 @@ nextjs-duolingo-clone/
 4. Push para a branch (`git push origin feature/nome-da-feature`)
 5. Abra um Pull Request
 
----
-
-<div align="center">
-
-Feito por [@renatomf](https://github.com/renatomf)
-
-</div>
