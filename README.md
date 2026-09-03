@@ -179,13 +179,3 @@ nextjs-duolingo-clone/
 - [ ] Adicionar testes automatizados
 - [ ] Definir licença do projeto
 
----
-
-## 🤝 Contribuindo
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nome-da-feature`)
-3. Commit suas mudanças (`git commit -m 'feat: minha nova feature'`)
-4. Push para a branch (`git push origin feature/nome-da-feature`)
-5. Abra um Pull Request
-
